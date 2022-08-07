@@ -1,35 +1,36 @@
 
 {
-  events: [
+  "events": [
         {
-          id: 111111,
-          category: "Category",
-          title: "Cat Adoption Day",
-          description: "Find your",
-          location: "Meaow Town",
-          time: "12:00",
-          petsAllowed: true,
-          organizer: "Afaf",
+          "id": 111111,
+          "category": "Category",
+          "title": "Cat Adoption Day",
+          "description": "Find your",
+          "location": "Meaow Town",
+          "time": "12:00",
+          "petsAllowed": true,
+          "organizer": "Afaf"
         },
         {
-          id: 222222,
-          category: "Category",
-          title: "Cat Adoption Day",
-          description: "Find your",
-          location: "Meaow Town",
-          time: "12:00",
-          petsAllowed: true,
-          organizer: "Afaf",
+          "id": 2222,
+          "category": "Category",
+          "title": "Cat Adoption Day",
+          "description": "Find your",
+          "location": "Meaow Town",
+          "time": "12:00",
+          "petsAllowed": true,
+          "organizer": "Afaf"
         },
         {
-          id: 11133333111,
-          category: "Category",
-          title: "Cat Adoption Day",
-          description: "Find your",
-          location: "Meaow Town",
-          time: "12:00",
-          petsAllowed: true,
-          organizer: "Afaf",
-        }
+          "id": 333,
+          "category": "Category",
+          "title": "Cat Adoption Day",
+          "description": "Find your",
+          "location": "Meaow Town",
+          "time": "12:00",
+          "petsAllowed": true,
+          "organizer": "Afaf"
+        },
+        
       ]
 }
